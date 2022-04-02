@@ -2,6 +2,7 @@
 def sum(a,b):
 	return a
 
+	print('中间的一个函数')
 	return a+b
 def ch(c,d):
 	return c*d
