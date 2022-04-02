@@ -1,8 +1,10 @@
 
 def sum(a,b):
+	return a
 	return a+b
 def ch(c,d):
 	return c*d
 def sum(a,b):
 	print(a)
 	print(b)
+
